@@ -1,5 +1,7 @@
 # blackfish
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/prompt-no-exit.svg)](https://greenkeeper.io/)
+
 docker-compose cli extensions
 
 ## install
