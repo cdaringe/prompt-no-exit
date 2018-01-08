@@ -1,0 +1,12 @@
+{
+  "name": "prompt-no-exit",
+  "version": "0.0.2",
+  "description": "debuggins",
+  "main": "src/index.js",
+  "author": "cdaringe",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.8.0",
+    "prompt-checkbox": "^2.2.0"
+  }
+}
